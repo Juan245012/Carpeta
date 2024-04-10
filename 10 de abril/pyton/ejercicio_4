@@ -1,0 +1,6 @@
+#4. la edad 
+Nacimiento = int(input("por favor coloque el año en que naciste"))
+ano = int(input("por favor coloque el año en que estas"))
+
+Edad = ano - Nacimiento
+print(f"tienes {Edad}")
